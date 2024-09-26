@@ -1,0 +1,16 @@
+<resources>
+    <string name="hello_world">Hello World</string>
+    <string name="app_name">My Application</string>
+    <string name="settings">Баптаулар</string>
+    <string name="change_avatar">Фотосуретті өзгерту</string>
+    <string name="push_msg">Push-xабарламалар</string>
+    <string name="lan_menu">Қосымшаның тілі</string>
+    <string name="current_lan">Қазақша</string>
+    <string name="change_code">Қосымшаға кіру кодын өзгерту</string>
+    <string name="use_touch_id">Саусақ таңбасын қолдану</string>
+    <string name="change_number">Телефон нөмірін өзгерту</string>
+    <string name="quit">Шығу</string>
+    <string name="history">Тіркеу жазбаңызды</string>
+    <string name="here"> осы жерден </string>
+    <string name="can_change">өзгерте аласыз</string>
+</resources>
